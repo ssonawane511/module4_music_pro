@@ -1,0 +1,62 @@
+[
+  {
+    "musicId": 1,
+    "name": "beliver",
+    "singer": "imagine Dragons",
+    "lenght": 4.3,
+    "photoUrl": "https://i.ibb.co/C13d37F/road.jpg",
+    "Mp3Url": "https://srv-store5.gofile.io/download/O8BvYO/audio1.mp3",
+    "likedBy": 40000,
+    "category": "pop song"
+  },
+  {
+    "musicId": 2,
+    "name": "Teri Aankhon Mein",
+    "singer": "Darshan Raval",
+    "lenght": 3.2,
+    "photoUrl": "https://i.ibb.co/Y2j2z2x/tower.jpg",
+    "Mp3Url": "https://srv-store3.gofile.io/download/yrI36I/Teri%20Aankhon%20Mein%20Song%20Divya%20KDarshan%20R%2C%20Neha%20KPearl%20V%20Manan%20BRadhika%2C%20VinayBhushan%20K.mp3",
+    "likedBy": 100,
+    "category": "pop song"
+  },
+  {
+    "musicId": 3,
+    "name": "bad Liar",
+    "singer": "Imagine Dragons",
+    "lenght": 10,
+    "photoUrl": "https://i.ibb.co/X3C13t7/beach.jpg",
+    "Mp3Url": "https://srv-store5.gofile.io/download/z7gF79/badliar.mp3",
+    "likedBy": 100000,
+    "category": "sufi"
+  },
+  {
+    "musicId": 4,
+    "name": "zingat",
+    "singer": "ajay atul",
+    "lenght": 6,
+    "photoUrl": "https://i.ibb.co/HPvWMdB/map.jpg",
+    "Mp3Url": "https://srv-store3.gofile.io/download/5hWvhU/zingat.mp3",
+    "likedBy": 100000,
+    "category": "sufi"
+  },
+  {
+    "musicId": 5,
+    "name": "love you zindagi",
+    "singer": "Amit Trivedi",
+    "lenght": 6,
+    "photoUrl": "https://i.ibb.co/mbCHV1n/mountain.jpg",
+    "Mp3Url": "https://srv-store1.gofile.io/download/Bc85Bl/love%20you%20zindagi.mp3",
+    "likedBy": 100000,
+    "category": "love"
+  },
+  {
+    "musicId": 6,
+    "name": "Memba",
+    "singer": "ashvini",
+    "lenght": 6,
+    "photoUrl": "https://i.ibb.co/nPVfrLV/party.jpg",
+    "Mp3Url": "https://srv-store3.gofile.io/download/I1fFuk/memba.mp3",
+    "likedBy": 100000,
+    "category": "sufi"
+  }
+]
